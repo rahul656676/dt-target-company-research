@@ -275,6 +275,16 @@ This creates strong collaboration and talent pipelines inside the Bengaluru ecos
 | Redwing Aerospace Labs           | Medical Drone Logistics           | https://www.redwinglabs.in    |
 
 ---
+## Research Effort
+
+The research process involved:
+
+* multiple rounds of filtering,
+* manual company verification,
+* cross-checking AI-generated suggestions,
+* and reviewing company websites, LinkedIn profiles, and startup ecosystem references.
+
+The focus was on selecting companies that genuinely matched the assignment criteria instead of maximising the number of companies.
 
 # Conclusion
 
